@@ -1,7 +1,11 @@
 # github-extend
 chrome插件，对github站点的功能做扩充
 
+## 下载
+- [releases下载](https://github.com/itstudying/github-extend/releases) 
+- [chrome应用商店](https://chrome.google.com/webstore/detail/aaeeanhgphgejffojboafjdlfbbmgfld/publish-accepted?authuser=0&hl=zh-CN)
 
+## 介绍
 ![](git-extend-intro.gif)
 
     1. star、仓库页和项目首页添加项目备注
@@ -12,7 +16,4 @@ chrome插件，对github站点的功能做扩充
 ---
 
 注意：***插件卸载后备注记录就没有了***，原本是想把私钥公开的便于用户自己升级，又觉得不太好还是算了，如果需要的话联系我
-
-[下载插件](https://github.com/itstudying/github-extend/releases)
-
 
