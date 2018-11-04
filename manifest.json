@@ -1,0 +1,31 @@
+{
+  "manifest_version": 2,
+  "name": "github-extend",
+  "version": "1.0.0",
+  "description": "github功能扩展，star项目添加备注，根据备注模糊搜索项目",
+  "homepage_url": "https://github.com/itstudying/github-extend",
+  "icons": {
+    "16": "img/icon16.png",
+    "48": "img/icon48.png",
+    "128": "img/icon128.png"
+  },
+  "browser_action": {
+    "default_icon": "img/icon128.png",
+    "default_title": "github功能扩展"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "*://github.com/*"
+      ],
+      "js": [
+        "js/star.js"
+      ],
+      "css": [],
+      "run_at": "document_end"
+    }
+  ],
+  "permissions": [
+    "storage"
+  ]
+}
