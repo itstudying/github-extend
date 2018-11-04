@@ -13,6 +13,6 @@ chrome插件，对github站点的功能做扩充
 
 注意：***插件卸载后备注记录就没有了***，原本是想把私钥公开的便于用户自己升级，又觉得不太好还是算了，如果需要的话联系我
 
-[下载插件](https://github.com/itstudying/github-extend/releases/download/v1.0/github-extend.crx)
+[下载插件](https://github.com/itstudying/github-extend/releases)
 
 
