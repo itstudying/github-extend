@@ -3,7 +3,7 @@ chrome插件，对github站点的功能做扩充
 
 ## 下载
 - [releases下载](https://github.com/itstudying/github-extend/releases) 
-- [chrome应用商店](https://chrome.google.com/webstore/detail/aaeeanhgphgejffojboafjdlfbbmgfld/publish-accepted?authuser=0&hl=zh-CN)
+- [chrome应用商店](https://chrome.google.com/webstore/detail/github-extend/aaeeanhgphgejffojboafjdlfbbmgfld)
 
 ## 介绍
 ![](git-extend-intro.gif)
